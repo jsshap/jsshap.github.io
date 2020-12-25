@@ -1,8 +1,9 @@
 ## Welcome to GitHub Pages
 
-[Github](https://github.com/jsshap)
-[LinkedIn](https://www.linkedin.com/in/jacob-shapiro-3361261aa/)
-[Email](jshapiro22@amherst.edu)
+[Github](https://github.com/jsshap)<br>
+[LinkedIn](https://www.linkedin.com/in/jacob-shapiro-3361261aa/)<br>
+[Email](mailto:jshapiro22@amherst.edu)<br>
+[Resume](JacobShapiro8-25-2020.pdf)
 
 ### Markdown
 
