@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my homepage
 
 [Github](https://github.com/jsshap)<br>
 [LinkedIn](https://www.linkedin.com/in/jacob-shapiro-3361261aa/)<br>
