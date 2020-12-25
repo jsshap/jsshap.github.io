@@ -1,5 +1,4 @@
-## Welcome to my homepage
-
+### Jake Shapiro
 ## [Github](https://github.com/jsshap)<br>
 ## [LinkedIn](https://www.linkedin.com/in/jacob-shapiro-3361261aa/)<br>
 ## [Email](mailto:jshapiro22@amherst.edu)<br>
