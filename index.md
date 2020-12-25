@@ -4,5 +4,5 @@
 ## [Email](mailto:jshapiro22@amherst.edu)<br>
 ## [Resume](JacobShapiro8-25-2020.pdf)<br>
 
-[![name](pic1.png)](google.com)
+[![name](resized.png)](https://www.google.com)
 
